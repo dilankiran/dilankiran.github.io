@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: cv
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-redirect_to: /assets/pdf/ADK_CV.pdf
+
+cv_pdf: /assets/pdf/ADK_CV.pdf
+cv_format: rendercv
 ---
