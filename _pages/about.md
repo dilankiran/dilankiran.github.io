@@ -49,7 +49,7 @@ I am interested in PhD positions and industry research opportunities!
 }
 
 html[data-theme="dark"] .research-box {
-  background-color: #2b2530;
+  background-color: #1f2a3a;
 }
 
 .profile img {
