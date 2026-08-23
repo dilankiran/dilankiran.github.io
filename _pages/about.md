@@ -18,6 +18,10 @@ latest_posts:
   enabled: false
 ---
 
+<p style="font-size:1.05rem; color:#666; margin-top:-8px; margin-bottom:22px;">
+  Machine Learning · Bioinformatics
+</p>
+
 I am a Master’s student in Computer Science at Saarland University with a background in bioengineering and bioinformatics. I am currently working on my Master’s thesis and expect to graduate by the end of 2026.
 
 I am interested in PhD and industry research opportunities in applied machine learning for bioinformatics!
@@ -27,11 +31,10 @@ I am interested in PhD and industry research opportunities in applied machine le
 <h3 style="margin-top:0;">Research Interests</h3>
 
 <ul style="margin-bottom:0;">
-  <li>Multimodal generative models</li>
-  <li>Variational autoencoders</li>
-  <li>Concept bottleneck models</li>
+  <li>Applied machine learning in bioinformatics</li>
+  <li>Multimodal variational autoencoders</li>
   <li>Explainable machine learning</li>
-  <li>Applied machine learning for drug discovery</li>
+  <li>Concept bottleneck models</li>
 </ul>
 
 </div>
@@ -43,4 +46,3 @@ I am interested in PhD and industry research opportunities in applied machine le
   pointer-events: none;
 }
 </style>
-
