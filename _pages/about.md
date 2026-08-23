@@ -33,6 +33,7 @@ I am interested in PhD and industry research opportunities in applied machine le
 <ul style="margin-bottom:0;">
   <li>Applied machine learning in bioinformatics</li>
   <li>Multimodal variational autoencoders</li>
+  <li>Probabilistic machine learning</li>
   <li>Explainable machine learning</li>
   <li>Concept bottleneck models</li>
 </ul>
