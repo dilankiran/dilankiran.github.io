@@ -6,7 +6,18 @@ permalink: /
 profile:
   align: left
   image: profile_pic.jpeg
-  image_circular: true 
+  image_circular: true
+  more_info: >
+    <div class="research-card">
+      <h3>Research Interests</h3>
+      <ul>
+        <li>Multimodal generative models</li>
+        <li>Variational autoencoders</li>
+        <li>Concept bottleneck models</li>
+        <li>Explainable machine learning</li>
+        <li>Applied machine learning for drug discovery</li>
+      </ul>
+    </div>
  
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -24,7 +35,7 @@ latest_posts:
 
 Hello, I am a Master’s student in Computer Science at Saarland University with a background in bioengineering and bioinformatics.
 
-### Research Interests
+#### Research Interests
 - Multimodal generative models
 - Variational autoencoders
 - Concept bottleneck models
