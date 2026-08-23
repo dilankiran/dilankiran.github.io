@@ -22,6 +22,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master’s student in Computer Science at Saarland University with a background in bioengineering and bioinformatics.
+Hello, I am a Master’s student in Computer Science at Saarland University with a background in bioengineering and bioinformatics.
 
-My research interests include multimodal variational autoencoders, concept bottleneck models, explainable machine learning, and applications in drug discovery. I am currently working on my Master’s thesis and expect to graduate by the end of 2026. I am also interested in PhD and industry research opportunities.
+### Research Interests
+- Multimodal generative models
+- Variational autoencoders
+- Concept bottleneck models
+- Explainable machine learning
+- Applied machine learning for drug discovery 
+
+Currently, I am completing my Master’s thesis and expect to graduate by the end of 2026.
+
+I am open to PhD and industry research opportunities!
