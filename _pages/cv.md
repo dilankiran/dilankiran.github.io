@@ -6,9 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-<iframe
-  src="{{ '/assets/pdf/ADK_CV.pdf' | relative_url }}"
-  width="100%"
-  height="1000px"
-  style="border: none;">
-</iframe>
+<script>
+  window.location.href = "{{ '/assets/pdf/ADK_CV.pdf' | relative_url }}";
+</script>
