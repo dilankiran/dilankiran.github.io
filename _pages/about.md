@@ -24,7 +24,7 @@ latest_posts:
 
 I am a Master’s student in Computer Science at Saarland University with a background in bioengineering and bioinformatics. I am currently working on my Master’s thesis and expect to graduate by the end of 2026.
 
-I am interested in PhD and industry research opportunities in applied machine learning for bioinformatics!
+I am interested in PhD positions and industry research opportunities!
 
 <div style="background:#F6F1FA; border-radius:14px; padding:16px 20px; margin-top:24px;">
 
