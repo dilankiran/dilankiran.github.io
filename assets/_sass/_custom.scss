@@ -9,3 +9,8 @@ a {
 a:hover {
   color: #536b8d;
 }
+
+.navbar .nav-link.active,
+.navbar .nav-link:hover {
+  color: #6f86a8 !important;
+}
