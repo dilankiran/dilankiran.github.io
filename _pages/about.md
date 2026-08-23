@@ -22,7 +22,7 @@ I am a Master’s student in Computer Science at Saarland University with a back
 
 I am interested in PhD and industry research opportunities in applied machine learning for bioinformatics!
 
-<div style="background:#EEF6FF; border-radius:14px; padding:16px 20px; margin-top:24px;">
+<div style="background:#F6F1FA; border-radius:14px; padding:16px 20px; margin-top:24px;">
 
 <h3 style="margin-top:0;">Research Interests</h3>
 
