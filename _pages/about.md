@@ -36,3 +36,11 @@ I am interested in PhD and industry research opportunities in applied machine le
 
 </div>
 
+<style>
+.profile img {
+  -webkit-user-drag: none;
+  user-select: none;
+  pointer-events: none;
+}
+</style>
+
