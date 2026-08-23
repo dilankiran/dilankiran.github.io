@@ -1,23 +1,22 @@
 ---
-
 layout: about
 title: about
 permalink: /
 
 profile:
-align: right
-image: profile_pic.jpeg
-image_circular: true
+  align: right
+  image: profile_pic.jpeg
+  image_circular: true
 
 selected_papers: false
 social: true
 
 announcements:
-enabled: false
+  enabled: false
 
 latest_posts:
-enabled: false
---------------
+  enabled: false
+---
 
 <p style="font-size:1.05rem; color:#666; margin-top:-8px; margin-bottom:22px;">
   Machine Learning · Bioinformatics
@@ -43,15 +42,14 @@ I am interested in PhD positions and industry research opportunities!
 
 <style>
 .research-box {
-  background: #F6F1FA;
+  background-color: #F6F1FA;
   border-radius: 14px;
   padding: 16px 20px;
   margin-top: 24px;
 }
 
-/* Dark mode */
 html[data-theme="dark"] .research-box {
-  background: #2b2530;
+  background-color: #2b2530;
 }
 
 .profile img {
