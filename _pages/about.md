@@ -8,9 +8,9 @@ profile:
   image: profile_pic.jpeg
   image_circular: true
   more_info: >
-    <div class="research-card">
-      <h3>Research Interests</h3>
-      <ul>
+    <div style="background:#f4f7f6; border-radius:14px; padding:16px 18px; margin-top:16px; font-family:inherit;">
+      <h3 style="margin-top:0; font-family:inherit;">Research Interests</h3>
+      <ul style="margin-bottom:0; padding-left:18px; font-family:inherit;">
         <li>Multimodal generative models</li>
         <li>Variational autoencoders</li>
         <li>Concept bottleneck models</li>
@@ -18,30 +18,17 @@ profile:
         <li>Applied machine learning for drug discovery</li>
       </ul>
     </div>
- 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+
+selected_papers: false
+social: true
 
 announcements:
-  enabled: false # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello, I am a Master’s student in Computer Science at Saarland University with a background in bioengineering and bioinformatics.
+I am a Master’s student in Computer Science at Saarland University with a background in bioengineering and bioinformatics. I am currently working on my Master’s thesis and expect to graduate by the end of 2026.
 
-#### Research Interests
-- Multimodal generative models
-- Variational autoencoders
-- Concept bottleneck models
-- Explainable machine learning
-- Applied machine learning for drug discovery 
-
-Currently, I am completing my Master’s thesis and expect to graduate by the end of 2026.
-
-I am open to PhD and industry research opportunities!
+I am interested in PhD and industry research opportunities in applied machine learning for bioinformatics!
