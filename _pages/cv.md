@@ -1,10 +1,16 @@
 ---
-layout: cv
+layout: page
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 5
-
-cv_pdf: /assets/pdf/ADK_CV.pdf
-cv_format: rendercv
 ---
+
+<iframe
+  src="{{ '/assets/pdf/ADK_CV.pdf' | relative_url }}"
+  width="100%"
+  height="900px"
+  style="border: none;">
+</iframe>
+
+[Download CV]({{ '/assets/pdf/ADK_CV.pdf' | relative_url }})
