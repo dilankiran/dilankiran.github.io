@@ -36,8 +36,3 @@ I am interested in PhD and industry research opportunities in applied machine le
 
 </div>
 
-<style>
-.post-title .font-weight-bold {
-  font-weight: 400 !important;
-}
-</style>
